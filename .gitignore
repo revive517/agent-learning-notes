@@ -1,0 +1,12 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.py[cod]
+
+# 密钥、配置文件
+.env
+config.json
+*.key
+
+# PyCharm配置文件夹
+.idea/
